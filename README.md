@@ -1,5 +1,4 @@
-# payroll-system
-Payroll system assessment. 
+# Payroll System Assessment
 This is a web-based Payroll Management application. It allows you to manage Departments and Employees, calculate monthly payroll (including Tax and EPF), and generate downloadable PDF payslips.
 
 🚀 How to Run This System (Step-by-Step)
